@@ -2,8 +2,8 @@
 #define CONFIG_H
 
 // WLAN
-#define WIFI_SSID "htlwlan"
-#define WIFI_PASSWORD "htl12345"
+#define WIFI_SSID "WLAN"
+#define WIFI_PASSWORD "PASSWORT"
 
 // Firebase
 #define DATABASE_URL "URL"
@@ -19,3 +19,4 @@
 
 
 #endif
+
