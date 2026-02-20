@@ -7,7 +7,7 @@
 
 // Firebase
 #define DATABASE_URL "https://aiit-2025-26-default-rtdb.europe-west1.firebasedatabase.app/"
-#define DATABASE_SECRET "DEIN_SECRET"
+#define DATABASE_SECRET "eW7mNvxXv945rPYgrae7kzII2DQdBZl4Vt1b5ekq"
 
 // Pins
 #define RAIN_SENSOR_PIN 32
