@@ -6,8 +6,8 @@
 #define WIFI_PASSWORD "htl12345"
 
 // Firebase
-#define DATABASE_URL "https://aiit-2025-26-default-rtdb.europe-west1.firebasedatabase.app/"
-#define DATABASE_SECRET "eW7mNvxXv945rPYgrae7kzII2DQdBZl4Vt1b5ekq"
+#define DATABASE_URL "URL"
+#define DATABASE_SECRET "KEY"
 
 // Pins
 #define RAIN_SENSOR_PIN 32
@@ -16,5 +16,6 @@
 // I2C
 #define I2C_SDA 22
 #define I2C_SCL 21
+
 
 #endif
