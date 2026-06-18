@@ -40,54 +40,16 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDdzGkkRJ1jEggu29Pvyb-OkmhICzdoxBw',
-    appId: '1:48251044369:web:a82dfa61ad81ae9bba27b0',
-    messagingSenderId: '48251044369',
-    projectId: 'aiit-2025-26',
-    authDomain: 'aiit-2025-26.firebaseapp.com',
-    databaseURL: 'https://aiit-2025-26-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'aiit-2025-26.firebasestorage.app',
-    measurementId: 'G-LNHS51S4KH',
-  );
+
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAVGLlSqGxDNVmx5OYlQgYAE3Ez8UzTjEs',
-    appId: '1:48251044369:android:be6b030eed4d5ea6ba27b0',
+    apiKey: 'APIKEY',
+    appId: 'ID',
     messagingSenderId: '48251044369',
     projectId: 'aiit-2025-26',
-    databaseURL: 'https://aiit-2025-26-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'aiit-2025-26.firebasestorage.app',
+    databaseURL: 'URL',
+    storageBucket: 'Bucket',
   );
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAh86QmBnndvdkm7FX6gsM7mBNN3_lX0P0',
-    appId: '1:48251044369:ios:eb783c6f989f48b1ba27b0',
-    messagingSenderId: '48251044369',
-    projectId: 'aiit-2025-26',
-    databaseURL: 'https://aiit-2025-26-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'aiit-2025-26.firebasestorage.app',
-    iosBundleId: 'com.example.flutterApplication1',
-  );
 
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAh86QmBnndvdkm7FX6gsM7mBNN3_lX0P0',
-    appId: '1:48251044369:ios:eb783c6f989f48b1ba27b0',
-    messagingSenderId: '48251044369',
-    projectId: 'aiit-2025-26',
-    databaseURL: 'https://aiit-2025-26-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'aiit-2025-26.firebasestorage.app',
-    iosBundleId: 'com.example.flutterApplication1',
-  );
-
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDdzGkkRJ1jEggu29Pvyb-OkmhICzdoxBw',
-    appId: '1:48251044369:web:ba7cf4e2f50ed7e0ba27b0',
-    messagingSenderId: '48251044369',
-    projectId: 'aiit-2025-26',
-    authDomain: 'aiit-2025-26.firebaseapp.com',
-    databaseURL: 'https://aiit-2025-26-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'aiit-2025-26.firebasestorage.app',
-    measurementId: 'G-5ZCLGVQ1GY',
-  );
 }
